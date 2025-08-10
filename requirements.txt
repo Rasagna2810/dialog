@@ -1,6 +1,9 @@
 streamlit
 pandas
-streamlit_audio_recorder
+av
+streamlit_webrtc
+git+https://github.com/stefanrmmr/streamlit_audio_recorder.git
+
 
 # git+https://github.com/stefanrmmr/streamlit_audio_recorder.git
 
